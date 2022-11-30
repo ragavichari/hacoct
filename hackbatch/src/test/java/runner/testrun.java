@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features ="C:\\Users\\general\\git\\batch\\hackbatch\\src\\test\\resources\\features",
+@CucumberOptions(features ="C:\\Users\\general\\git\\hacoct\\hackbatch\\src\\test\\resources\\features",
 glue="stepDefinitions",
 dryRun=false,
 monochrome=true,
